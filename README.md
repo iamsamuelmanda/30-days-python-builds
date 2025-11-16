@@ -61,3 +61,33 @@ Code backed up successfully to GitHub
 ---
 
 ✨ “Every Passenger carries a story — but you, the builder, pilot your own.”
+
+## Day 3: Forex Profit/Loss Calculator ✓
+**Date:** November 16, 2025  
+**Build time:** ~6 hours (with debugging)
+
+**What it does:** 
+Calculates profit/loss for forex trades supporting both long and short positions with unlimited calculations in one session.
+
+**What I learned:**
+- Functions: def, parameters, return
+- Mathematical operations for forex
+- If/elif/else for different trade types
+- While loops for repeated actions
+- String formatting with .2f for currency
+- Debugging indentation errors
+- Breaking down problems into smaller parts
+
+**Features:**
+- Long and short position support
+- Pip-based calculations
+- Clean formatted output with profit/loss indicators
+- Multiple trade calculations without restart
+- Input validation
+
+**Challenges overcome:**
+- Tab vs space indentation (learned to use spaces only)
+- Understanding function structure
+- Proper nesting of if statements inside loops
+
+[View Code](day_03_forex_calculator
